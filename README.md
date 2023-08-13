@@ -1,4 +1,4 @@
-# Dominant Colors with Clustering and Histogram (Jupyter Notebook)
+# Dominant Colors with Clustering (K-Mean) and Histogram
 
 This repository provides an advanced implementation of the Dominant Colors algorithm using clustering and histogram techniques in a Jupyter Notebook without the use of external libraries. The Dominant Colors algorithm is commonly used in image processing and computer vision to extract the most prominent colors from an image.
 
